@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[4.20.1, )"
             },
+            "Microsoft.Bot.Builder.Dialogs": {
+              "target": "Package",
+              "version": "[4.20.1, )"
+            },
             "Microsoft.Bot.Builder.Integration.AspNet.Core": {
               "target": "Package",
               "version": "[4.20.1, )"
@@ -69,6 +73,10 @@
             "Microsoft.Bot.Schema": {
               "target": "Package",
               "version": "[4.20.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
