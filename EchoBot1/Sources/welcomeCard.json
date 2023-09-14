@@ -1,0 +1,40 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Ciao! sono un bot in fase di sviluppo!  al momento posso darti informazioni sull'amplificatore di PowerSoft \"Otto Canali\"",
+      "wrap": true,
+      "spacing": "ExtraLarge",
+      "horizontalAlignment": "Center",
+      "style": "default",
+      "fontType": "Monospace",
+      "size": "Small",
+      "weight": "Bolder",
+      "color": "Default",
+      "height": "stretch"
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "size": "ExtraLarge",
+          "weight": "Bolder",
+          "text": "PowerSoft Bot",
+          "spacing": "Padding",
+          "horizontalAlignment": "Center",
+          "color": "Dark"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.6",
+  "backgroundImage": {
+    "horizontalAlignment": "Center",
+    "verticalAlignment": "Center",
+    "url": "https://img.freepik.com/free-vector/cute-robot-holding-clipboard-cartoon-vector-icon-illustration-science-technology-icon-isolated_138676-5184.jpg?w=1380&t=st=1694680868~exp=1694681468~hmac=a0d685c7d569675e7886b0c2e74114ce2533cac0b2cec50fcb164b5e7b485e62"
+  },
+  "minHeight": "350px"
+}
